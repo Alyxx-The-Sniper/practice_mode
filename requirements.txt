@@ -2,7 +2,8 @@ langgraph
 langchain
 langsmith
 langchain_openai
-angchain_community
+langchain_community
+ipykernel
 
 
 python-dotenv
